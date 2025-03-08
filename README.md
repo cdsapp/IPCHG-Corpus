@@ -15,8 +15,8 @@ ver0_7a: the initial commit of these texts to Github:
 * changed eg (META <,>) to (CODE <,>)
 
 ver0_7b:
-•	changed any instances of ander that are not Q to Q
-•	queried mismatches between GF and case, and fixed either the phrase or the case.
+*	changed any instances of ander that are not Q to Q
+*	queried mismatches between GF and case, and fixed either the phrase or the case.
 
 ver0_8:
-•	replaced ascii characters in some MHG texts with more accurate UTF characters
+*	replaced ascii characters in some MHG texts with more accurate UTF characters
