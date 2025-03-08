@@ -11,5 +11,12 @@ Full corpus documentation is at https://ipchg.iu.edu
 # Version numbers
 
 ver0_7a: the initial commit of these texts to Github:
-* change eg “Warum?” to CP-QUE-MAT and eg “Ich sage dir warum” to CP-QUE-SUB
-* change eg (META <,>) to (CODE <,>)
+* changed eg “Warum?” to CP-QUE-MAT and eg “Ich sage dir warum” to CP-QUE-SUB
+* changed eg (META <,>) to (CODE <,>)
+
+ver0_7b:
+•	changed any instances of ander that are not Q to Q
+•	queried mismatches between GF and case, and fixed either the phrase or the case.
+
+ver0_8:
+•	ver0_8 replaced ascii characters in some MHG texts with more accurate UTF characters
