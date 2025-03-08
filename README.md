@@ -19,4 +19,4 @@ ver0_7b:
 •	queried mismatches between GF and case, and fixed either the phrase or the case.
 
 ver0_8:
-•	ver0_8 replaced ascii characters in some MHG texts with more accurate UTF characters
+•	replaced ascii characters in some MHG texts with more accurate UTF characters
