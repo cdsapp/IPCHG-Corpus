@@ -4,7 +4,7 @@
 
 ( (CODE parsed_by_CDS))
 
-( (CODE annotation_version0.7a_2024-11-01))
+( (CODE annotation_version0.8_2025-02-05))
 
 ( (FRAG (XX (X D...=_))
 	(CODE <...>)
