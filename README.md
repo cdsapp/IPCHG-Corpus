@@ -4,7 +4,7 @@ Here are the latest versions of the parsed texts of the Indiana Parsed Corpus of
 - ENHG (Early New High German; 1350-1650)
 - NHG (Modern/New High German; 1650-1950).
 
-Once downloaded, they can be queried using CorpusSearch2. For a simplified query interface (but with slightly older versions of the texts), see https://ipchg.iu.edu/query/index.html
+Once downloaded, they can be queried using CorpusSearch2 (or using our shell at cdsapp/general_tools/PACS). For a simplified query interface (but with slightly older versions of the texts), see https://ipchg.iu.edu/query/index.html
 
 Full corpus documentation is at https://ipchg.iu.edu
 
